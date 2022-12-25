@@ -1,10 +1,11 @@
 # Installation
-1. You have next items installed:
+1. You need:
 * Dotnet 6
-* MsSqlServer
 * Dotnet ef
+* MsSqlServer
 
-2. Setup your connection string in appsettings.Development.json
+2. Setup a connection string in appsettings.Development.json
 3. Apply migrations - `dotnet ef database update`
-4. Run your application)
-5. Feel free to work!
+4. To run the application use `dotnet run`
+5. In /client enter `npm run serve`
+6. Enjoy!
