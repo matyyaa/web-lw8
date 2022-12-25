@@ -1,0 +1,289 @@
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/appsettings.Development.json
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/appsettings.json
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Lab8
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Lab8.deps.json
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Lab8.runtimeconfig.json
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Lab8.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Lab8.pdb
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/AutoMapper.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.csproj.AssemblyReference.cache
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.AssemblyInfoInputs.cache
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.AssemblyInfo.cs
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.csproj.CoreCompileInputs.cache
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.MvcApplicationPartsAssemblyInfo.cs
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.MvcApplicationPartsAssemblyInfo.cache
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/staticwebassets.build.json
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/staticwebassets.development.json
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/scopedcss/bundle/Lab8.styles.css
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.csproj.CopyComplete
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/refint/Lab8.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.pdb
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/Lab8.genruntimeconfig.cache
+/Users/antonpodkur/Documents/University/WebTech/Lab8/obj/Debug/net6.0/ref/Lab8.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Humanizer.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/client/jsconfig.json
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/client/package-lock.json
+/Users/antonpodkur/Documents/University/WebTech/Lab8/bin/Debug/net6.0/client/package.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/appsettings.Development.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/appsettings.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/client/jsconfig.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/client/package-lock.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/client/package.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Lab8.exe
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Lab8.deps.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Lab8.runtimeconfig.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Lab8.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Lab8.pdb
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/AutoMapper.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Humanizer.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/System.Drawing.Common.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/System.Runtime.Caching.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/System.Security.Permissions.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/System.Windows.Extensions.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.csproj.AssemblyReference.cache
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.AssemblyInfoInputs.cache
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.AssemblyInfo.cs
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.csproj.CoreCompileInputs.cache
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.MvcApplicationPartsAssemblyInfo.cs
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.MvcApplicationPartsAssemblyInfo.cache
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/staticwebassets.build.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/staticwebassets.development.json
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/scopedcss/bundle/Lab8.styles.css
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.csproj.CopyComplete
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/refint/Lab8.dll
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.pdb
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/Lab8.genruntimeconfig.cache
+D:/Lessons/7th semestr/Web_basics/Lab8/Lab8/obj/Debug/net6.0/ref/Lab8.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/appsettings.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/client/jsconfig.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/client/package-lock.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/client/package.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/appsettings.Development.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Lab8
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Lab8.deps.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Lab8.runtimeconfig.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Lab8.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Lab8.pdb
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/AutoMapper.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Humanizer.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.csproj.AssemblyReference.cache
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.AssemblyInfoInputs.cache
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.AssemblyInfo.cs
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.csproj.CoreCompileInputs.cache
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.MvcApplicationPartsAssemblyInfo.cs
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.MvcApplicationPartsAssemblyInfo.cache
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/staticwebassets.build.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/staticwebassets.development.json
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/scopedcss/bundle/Lab8.styles.css
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.csproj.CopyComplete
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/refint/Lab8.dll
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.pdb
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/Lab8.genruntimeconfig.cache
+/Users/masha/Desktop/default for codes/web technologies/web_basics_lab8-main/obj/Debug/net6.0/ref/Lab8.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/appsettings.Development.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/appsettings.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/client/jsconfig.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/client/package.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/client/package-lock.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/package-lock.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Lab8
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Lab8.deps.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Lab8.runtimeconfig.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Lab8.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Lab8.pdb
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/AutoMapper.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Humanizer.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.csproj.AssemblyReference.cache
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.AssemblyInfoInputs.cache
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.AssemblyInfo.cs
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.csproj.CoreCompileInputs.cache
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.MvcApplicationPartsAssemblyInfo.cs
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.MvcApplicationPartsAssemblyInfo.cache
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/staticwebassets.build.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/staticwebassets.development.json
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/scopedcss/bundle/Lab8.styles.css
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.csproj.CopyComplete
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/refint/Lab8.dll
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.pdb
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/Lab8.genruntimeconfig.cache
+/Users/masha/Desktop/default for codes/web technologies/lw8/obj/Debug/net6.0/ref/Lab8.dll
